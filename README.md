@@ -56,7 +56,7 @@ energy_project/
 
 ## How to Run
 
-### Option A — Run in VS Code Notebook
+### Option A: Run in VS Code Notebook
 1. Open [energy_project.ipynb](energy_project.ipynb) in VS Code (Notebook Editor).
 2. Select a Python kernel with PySpark installed.
 3. Run all cells.
@@ -64,7 +64,7 @@ energy_project/
 Plots render in-cell and are saved as JPGs under:
 `etl_output/plots/jpg/`
 
-### Option B — Run from Terminal (Reproducible)
+### Option B: Run from Terminal (Reproducible)
 From the project root:
 ```bash
 python -m jupyter nbconvert --execute --to notebook --inplace --ExecutePreprocessor.timeout=900 energy_project.ipynb
