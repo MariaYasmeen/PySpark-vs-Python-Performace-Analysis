@@ -1,4 +1,4 @@
-# Energy Access Survey — Spark ETL + Benchmarking + Visual Analytics (JPG-only)
+# Energy Access Survey | Spark ETL + Benchmarking + Visual Analytics  
 
 Interactive, reproducible analysis of the **Pakistan Energy Access Household Panel Survey** using **PySpark** (DataFrame + Spark SQL), with a lightweight benchmarking section and a set of **cleaned, non-null visual analyses exported as JPGs**.
 
